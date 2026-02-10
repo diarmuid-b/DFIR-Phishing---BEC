@@ -1,7 +1,7 @@
 **Microsoft 365 BEC Investigation – DFIR Walkthrough**
 **Scenario Overview**
 
-This investigation focused on a suspected Business Email Compromise (BEC) within a Microsoft 365 tenant.
+This case study documents a Microsoft 365 Business Email Compromise (BEC) investigation using Unified Audit Logs and email artefacts. The analysis identifies external attacker IPs, malicious inbox rule persistence, folder manipulation, and cloud-based Living-Off-the-Land tradecraft — demonstrating structured DFIR methodology, PowerShell log parsing, and investigative troubleshooting.
 
 **Available artefacts included:**
 
